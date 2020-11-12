@@ -1,4 +1,5 @@
 # D3 Homework - Data Journalism and D3
+Click here for a visual http://127.0.0.1:5501/Instructions/StarterCode/index.html
 
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
 
